@@ -1,5 +1,8 @@
 # Snowflake Data Pipeline with DBT and Apache Airflow
 
+![Airflow](https://github.com/tanmay1501/dbt-snowflake/blob/main/airflow.png)
+![database](https://github.com/tanmay1501/dbt-snowflake/blob/main/database.png)
+
 ## Project Overview
 
 This project demonstrates the process of creating a **data pipeline** in Snowflake using **DBT** (Data Build Tool) and **Apache Airflow**. The pipeline works on a sample dataset from **TPC-H** provided by Snowflake and utilizes DBT to build views and tables. The pipeline is then deployed using **Astronomer Cosmos** (a managed service for Airflow) in a **Docker container**.
